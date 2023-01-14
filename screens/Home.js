@@ -4,6 +4,7 @@ import { FocusedStatusBar, HomeHeader, NFTCard } from "../components";
 import { COLORS, NFTData } from '../constants';
 
 const Home = () => {
+    // Project reviewed
     return (
         <SafeAreaView style={{ flex: 1 }}>
             <FocusedStatusBar background={COLORS.primary} />
