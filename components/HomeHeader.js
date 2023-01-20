@@ -3,6 +3,7 @@ import React from 'react';
 import { COLORS, FONTS, SIZES, assets } from '../constants'
 
 const HomeHeader = () => {
+  // Project reviewed
   return (
     <View style={{
       backgroundColor: COLORS.primary,
